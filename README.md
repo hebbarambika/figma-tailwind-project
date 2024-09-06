@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Heroicons (Icons like ChevronLeftIcon and ChevronRightIcon)
+using icons from the Heroicons library.
+Command:npm install @heroicons/react
+
+Tailwind CSS (Utility-first CSS framework)
+styles are based on Tailwind CSS.
+Commands: npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
